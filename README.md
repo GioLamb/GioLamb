@@ -17,7 +17,7 @@
 - 🎓 **Education:** Master's Graduate in Computer Science with a specialization in Artificial Intelligence & Intelligent Robotics.
 - 🤖 **Focus:** My work heavily revolves around integrating AI with robotic frameworks, real-time computer vision, and autonomous systems.
 - 💻 **Tech Interests:** Beyond AI and robotics, I enjoy building scalable software architectures, tinkering with Linux distributions, and optimizing network setups.
-- 🏋️‍♂️ **Outside Tech:** When I'm not compiling code, I'm likely pushing through a 15% incline run on the treadmill or tweaking my Kodi media center.
+- 🏋️‍♂️ **Outside Tech:** When I'm not compiling code, I'm likely pushing through a 15% incline run at 5 km/h on the treadmill or tweaking my Kodi media center for retro-gaming.
 - 📫 **Location:** Pompei, Italy 🇮🇹
 
 <br>
@@ -32,10 +32,10 @@
 #### 🧠 IA & ML
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="IA & ML" />
-  <img src="https://img.shields.io/badge/--74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT"/>
-  <img src="https://img.shields.io/badge/--D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" title="Claude"/>
-  <img src="https://img.shields.io/badge/--8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" title="Gemini"/>
-  <img src="https://img.shields.io/badge/--4A4A4A?style=for-the-badge&logo=alibabadotcom&logoColor=white" alt="Qwen" title="Qwen"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="ChatGPT" title="ChatGPT" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" title="Claude" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" title="Gemini" />
+  <img src="https://cdn.simpleicons.org/alibabadotcom/FF6A00" height="48" alt="Qwen" title="Qwen" />
 </p>
 
 #### ⚙️ Software & DevOps Tools
