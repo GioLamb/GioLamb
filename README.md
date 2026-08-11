@@ -35,7 +35,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT" title="ChatGPT" />
   <img src="https://icon.horse/icon/claude.ai" width="48" height="48" style="border-radius: 10px;" alt="Claude" title="Claude" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="48" height="48" alt="Gemini" title="Gemini" />
-  <img src="https://avatars.githubusercontent.com/u/143736495?v=4" width="48" height="48" style="border-radius: 10px;" alt="Qwen" title="Qwen" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Qwen_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="48" height="48" style="border-radius: 10px;" alt="Qwen" title="Qwen" />
 </p>
 
 #### ⚙️ Software & DevOps Tools
