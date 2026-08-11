@@ -32,10 +32,4 @@ Benvenuto nel mio profilo GitHub. Sono un Ingegnere Informatico con una laurea m
 
 ## 📬 Contatti e Statistiche
 
-📍 **Base:** Pompei, Italia  
-
-<p align="left">
-  <a href="https://github.com/GioLamb">
-    <img src="https://github-readme-stats.vercel.app/api?username=GioLamb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistiche GitHub di Giovanni" />
-  </a>
-</p>
+📍 **Base:** Pompei, Italia
