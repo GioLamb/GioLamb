@@ -17,7 +17,7 @@
 - 🎓 **Education:** Master's Graduate in Computer Science with a specialization in Artificial Intelligence & Intelligent Robotics.
 - 🤖 **Focus:** My work heavily revolves around integrating AI with robotic frameworks, real-time computer vision, and autonomous systems.
 - 💻 **Tech Interests:** Beyond AI and robotics, I enjoy building scalable software architectures, tinkering with Linux distributions, and optimizing network setups.
-- 🏋️‍♂️ **Outside Tech:** When I'm not compiling code, I'm likely pushing through a 15% incline run at 5 km/h on the treadmill or tweaking my Kodi media center for retro-gaming.
+- 🏋️‍♂️ **Outside Tech:** When I'm not compiling code, I'm likely pushing through a 15% incline run at 4-5 km/h on the treadmill or tweaking my Kodi media center for retro-gaming.
 - 📫 **Location:** Pompei, Italy 🇮🇹
 
 <br>
@@ -32,10 +32,10 @@
 #### 🧠 IA & ML
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="IA & ML" />
-  <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="ChatGPT" title="ChatGPT" />
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" title="Claude" />
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" title="Gemini" />
-  <img src="https://cdn.simpleicons.org/alibabadotcom/FF6A00" height="48" alt="Qwen" title="Qwen" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT" title="ChatGPT" />
+  <img src="https://icon.horse/icon/claude.ai" width="48" height="48" style="border-radius: 10px;" alt="Claude" title="Claude" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="48" height="48" alt="Gemini" title="Gemini" />
+  <img src="https://avatars.githubusercontent.com/u/143736495?v=4" width="48" height="48" style="border-radius: 10px;" alt="Qwen" title="Qwen" />
 </p>
 
 #### ⚙️ Software & DevOps Tools
