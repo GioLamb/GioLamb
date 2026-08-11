@@ -20,7 +20,7 @@
 - 🏋️‍♂️ **Outside Tech:** When I'm not compiling code, I'm likely pushing through a 15% incline run at 4-5 km/h on the treadmill or tweaking my Kodi media center for retro-gaming.
 - 📫 **Location:** Pompei, Italy 🇮🇹
 
-<br>
+
 
 ### 🛠️ Tech Stack & Tools
 
