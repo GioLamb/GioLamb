@@ -62,6 +62,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GioLamb&show_icons=true&theme=transparent&hide_border=true&title_color=2496ED&icon_color=2496ED" alt="Giovanni's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GioLamb&theme=transparent&hide_border=true&title_color=2496ED&icon_color=2496ED" alt="Giovanni's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioLamb&layout=compact&theme=transparent&hide_border=true&title_color=2496ED" alt="Top Languages" />
 </p>
